@@ -1,0 +1,6 @@
+com\tutorialsninja\testsuite\DesktopsTest.class
+com\tutorialsninja\testsuite\LaptopsAndNotebooksTest.class
+com\tutorialsninja\testng\TestNGDemo.class
+com\tutorialsninja\testsuite\MyAccountsTest.class
+com\tutorialsninja\testbase\BaseTest.class
+com\tutorialsninja\testsuite\TopMenuTest.class
